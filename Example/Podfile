@@ -1,0 +1,6 @@
+use_frameworks!
+target 'three3d_egl_osx_Tests' do
+  pod 'three3d_egl_osx', :path => '../'
+  
+  
+end
