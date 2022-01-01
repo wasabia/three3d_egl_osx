@@ -34,7 +34,7 @@ public func makeCurrent(context: Int64) -> Int64 {
   
   if(_context != nil) {
     _context!.makeCurrentContext();
-    return 1;
+    return _result ? 1 : 0;
   } else {
     return -1;
   }
