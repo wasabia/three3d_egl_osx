@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
 
   s.platform = :osx
   s.osx.deployment_target = "10.10"
-
+  s.swift_versions = '5.0'
   s.source_files = 'three3d_egl_osx/Classes/**/*'
 
   # s.resource_bundles = {
