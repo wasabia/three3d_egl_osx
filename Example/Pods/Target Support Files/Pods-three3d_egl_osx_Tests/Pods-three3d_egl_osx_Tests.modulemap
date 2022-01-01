@@ -1,0 +1,6 @@
+framework module Pods_three3d_egl_osx_Tests {
+  umbrella header "Pods-three3d_egl_osx_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

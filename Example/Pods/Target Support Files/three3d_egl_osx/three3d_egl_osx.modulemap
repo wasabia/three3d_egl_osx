@@ -1,0 +1,6 @@
+framework module three3d_egl_osx {
+  umbrella header "three3d_egl_osx-umbrella.h"
+
+  export *
+  module * { export * }
+}

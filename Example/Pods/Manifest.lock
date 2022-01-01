@@ -1,0 +1,16 @@
+PODS:
+  - three3d_egl_osx (0.1.0)
+
+DEPENDENCIES:
+  - three3d_egl_osx (from `../`)
+
+EXTERNAL SOURCES:
+  three3d_egl_osx:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  three3d_egl_osx: 365e724103317489ee68bda694fd3e73932c1f06
+
+PODFILE CHECKSUM: 7fbe2543af02def9e82d93b11f3d8c3f83822238
+
+COCOAPODS: 1.11.2
